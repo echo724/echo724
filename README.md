@@ -2,10 +2,10 @@
 
 ### Hello World
 
-### About
+### About Me
 
 [About Eunchan](https://echo724.github.io/about/)
 
-### Grade
+### Status
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=echo724)](https://github.com/anuraghazra/github-readme-stats)
