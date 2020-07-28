@@ -4,8 +4,6 @@
 
 </div>
 
-### Hello World
-
 ### About Me
 
 [https://echo724.github.io/about/](https://echo724.github.io/about/)
