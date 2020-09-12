@@ -6,7 +6,7 @@
 
 ### About Me
 
-[Resume](https://www.notion.so/minicar/Software-Developer-0e07602f35144f2c958fb3f233013de2)
+[NOTION PAGE](https://www.notion.so/minicar/Software-Developer-0e07602f35144f2c958fb3f233013de2)
 
 ### Status
 
