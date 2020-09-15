@@ -11,3 +11,5 @@
 ### Status
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=echo724)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://raw.githubusercontent.com/echo724/echo724/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
