@@ -11,13 +11,13 @@
 ### My Activty
 ```
 ⬆️ Pushed 1 commit to echo724/echo724
-🍴 Forked echo724/kdy1 from kdy1/kdy1
 ⬆️ Pushed 1 commit to echo724/echo724
+🍴 Forked echo724/kdy1 from kdy1/kdy1
 ⬆️ Pushed 1 commit to echo724/echo724
 ⬆️ Pushed 1 commit to echo724/echo724
 ```
 
 <p align="center">
   Last refresh: 
-  <b>2020-11-24T02:03:36Z</b>
+  <b>Tuesday, November 24th 2020</b>
 </p>
