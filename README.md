@@ -1,19 +1,23 @@
-# Echo's Profile
+## Echo's Profile
 
-## My Activity
-
-⬆️ Pushed 1 commit to echo724/echo724
-⬆️ Pushed 1 commit to echo724/echo724
-⬆️ Pushed 1 commit to echo724/echo724
-❗️ Closed issue #2 in echo724/notion2md
-🗣 Commented on #2 in echo724/notion2md
-
+### My Repos
+```
 ⭐️ 102 📦 echo724/notion2md
 ⭐️ 4   📦 echo724/notion2jekyll
 ⭐️ 1   📦 echo724/echo724.github.io
 ⭐️ 1   📦 echo724/matrix-generator
+```
+
+### My Activty
+```
+⬆️ Pushed 1 commit to echo724/echo724
+🍴 Forked echo724/kdy1 from kdy1/kdy1
+⬆️ Pushed 1 commit to echo724/echo724
+⬆️ Pushed 1 commit to echo724/echo724
+⬆️ Pushed 1 commit to echo724/echo724
+```
 
 <p align="center">
   Last refresh: 
-  <b>2020-11-24T02:01:20Z</b>
+  <b>2020-11-24T02:03:36Z</b>
 </p>
