@@ -1,10 +1,14 @@
-# Echo's Profile
+## Echo's Profile
 
-## My Activity
-
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
-
+### My Repos
+```
 <!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
+```
+
+### My Activty
+```
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+```
 
 <p align="center">
   Last refresh: 
