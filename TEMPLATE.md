@@ -12,5 +12,5 @@
 
 <p align="center">
   Last refresh: 
-  <b><!--TIMESTAMP--></b>
+  <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY"}--></b>
 </p>
