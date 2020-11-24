@@ -1,13 +1,19 @@
-<div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fecho724)](https://hits.seeyoufarm.com)
+# Echo's Profile
 
-</div>
+## My Activity
 
-### About Me
+⬆️ Pushed 1 commit to echo724/echo724
+⬆️ Pushed 1 commit to echo724/echo724
+⬆️ Pushed 1 commit to echo724/echo724
+❗️ Closed issue #2 in echo724/notion2md
+🗣 Commented on #2 in echo724/notion2md
 
-[Notion Page](https://www.notion.so/minicar/Software-Developer-0e07602f35144f2c958fb3f233013de2)
+⭐️ 102 📦 echo724/notion2md
+⭐️ 4   📦 echo724/notion2jekyll
+⭐️ 1   📦 echo724/echo724.github.io
+⭐️ 1   📦 echo724/matrix-generator
 
-### Status
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=echo724)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  Last refresh: 
+  <b>2020-11-24T02:01:20Z</b>
+</p>
