@@ -24,5 +24,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, November 26th 2020</b>
+  <b>Friday, November 27th 2020</b>
 </p>
