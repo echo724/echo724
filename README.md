@@ -15,10 +15,10 @@
 
 ### My Activty
 ```
+⬆️ Pushed 1 commit to echo724/DevLog
+⬆️ Pushed 1 commit to echo724/DevLog
 ⬆️ Pushed 1 commit to echo724/echo724
 ⬆️ Pushed 1 commit to echo724/echo724
-⬆️ Pushed 1 commit to echo724/echo724
-🍴 Forked echo724/qu4k from qu4k/qu4k
 ⬆️ Pushed 1 commit to echo724/echo724
 ```
 
