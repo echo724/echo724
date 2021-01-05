@@ -6,7 +6,7 @@
 
 ### My Repos
 ```
-⭐️ 123 📦 echo724/notion2md
+⭐️ 124 📦 echo724/notion2md
 ⭐️ 4   📦 echo724/notion2jekyll
 ⭐️ 1   📦 echo724/echo724.github.io
 ⭐️ 1   📦 echo724/matrix-generator
@@ -24,5 +24,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Monday, January 4th 2021</b>
+  <b>Tuesday, January 5th 2021</b>
 </p>
