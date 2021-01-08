@@ -15,14 +15,14 @@
 
 ### My Activty
 ```
+⬆️ Pushed 1 commit to echo724/UnityStudy
+⬆️ Pushed 1 commit to echo724/UnityStudy
 ⬆️ Pushed 1 commit to echo724/DevLog
 ⬆️ Pushed 1 commit to echo724/DevLog
-⬆️ Pushed 1 commit to echo724/echo724
-⬆️ Pushed 1 commit to echo724/echo724
 ⬆️ Pushed 1 commit to echo724/echo724
 ```
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, January 7th 2021</b>
+  <b>Friday, January 8th 2021</b>
 </p>
