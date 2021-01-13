@@ -22,7 +22,7 @@ jobs:
         with:
           username: echo724
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          template: "TEMPLATE.md"
+          template: TEMPLATE.md
 
       - name: Commit & Push changes
         uses: actions-js/push@master
