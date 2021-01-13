@@ -6,7 +6,7 @@ on:
     branches: 
       - master
   schedule:
-   - cron: "0 */12 * * *"
+   - cron: "0 */6 * * *"
 
 jobs:
   publish:
@@ -27,4 +27,7 @@ jobs:
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
+          coauthor_email: echo724@users.noreply.github.com
+          coauthor_name: Eunchan Cho
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          
