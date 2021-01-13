@@ -15,10 +15,10 @@
 
 ### My Activty
 ```
+⬆️ Pushed 1 commit to echo724/echo724
 ⬆️ Pushed 1 commit to echo724/UnityStudy
 ⬆️ Pushed 1 commit to echo724/UnityStudy
 ⬆️ Pushed 2 commits to echo724/UnityStudy
-⬆️ Pushed 1 commit to echo724/UnityStudy
 ⬆️ Pushed 1 commit to echo724/UnityStudy
 ```
 
