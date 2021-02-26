@@ -1,6 +1,6 @@
 ## Echo724 README
 
-<code>**Simple is the best**</code>
+<code>**echo Hello World**</code>
 
 
 - Open Source Developer
