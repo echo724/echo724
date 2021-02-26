@@ -1,6 +1,6 @@
 ## Echo724 README
 
-<code>**Simple is the best**</code>
+<code>**echo Hello World**</code>
 
 
 - Open Source Developer
@@ -9,7 +9,7 @@
 
 ### My Repos
 ```
-⭐️ 154 📦 echo724/notion2md
+⭐️ 157 📦 echo724/notion2md
 ⭐️ 4   📦 echo724/notion2jekyll
 ⭐️ 1   📦 echo724/echo724.github.io
 ⭐️ 1   📦 echo724/matrix-generator
