@@ -11,5 +11,5 @@
 ⭐️ 6   📦 echo724/notion2jekyll
 ⭐️ 1   📦 echo724/matrix-generator
 ⭐️ 1   📦 echo724/mphyspy
-⭐️ 1   📦 echo724/quantum-mechanics
+⭐️ 1   📦 echo724/notion2medium
 ```
