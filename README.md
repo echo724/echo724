@@ -2,7 +2,7 @@
 
 <code>**echo Hello World**</code>
 
-- [Personal Blog](https://echo-devblog.netlify.app)
+- [Personal Blog](https://medium.com/echo-devblog)
 - [Linkedin Profile](https://www.linkedin.com/in/eunchan-cho-382001184)
 
 ### My Repos
