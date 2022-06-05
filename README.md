@@ -7,7 +7,7 @@
 
 ### My Repos
 ```
-⭐️ 426 📦 echo724/notion2md
+⭐️ 427 📦 echo724/notion2md
 ⭐️ 7   📦 echo724/notion2jekyll
 ⭐️ 2   📦 echo724/notion2medium
 ⭐️ 1   📦 echo724/matrix-generator
