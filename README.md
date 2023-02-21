@@ -10,6 +10,6 @@
 ⭐️ 510 📦 echo724/notion2md
 ⭐️ 7   📦 echo724/notion2jekyll
 ⭐️ 3   📦 echo724/notion2medium
+⭐️ 3   📦 woowacourse-study/Gugles
 ⭐️ 1   📦 echo724/java-bridge
-⭐️ 1   📦 echo724/matrix-generator
 ```
