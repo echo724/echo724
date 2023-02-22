@@ -9,7 +9,7 @@
 ```
 ⭐️ 511 📦 echo724/notion2md
 ⭐️ 7   📦 echo724/notion2jekyll
-⭐️ 4   📦 woowacourse-study/Gugles
+⭐️ 5   📦 woowacourse-study/Gugles
 ⭐️ 3   📦 echo724/notion2medium
 ⭐️ 1   📦 echo724/java-bridge
 ```
