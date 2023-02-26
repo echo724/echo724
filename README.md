@@ -7,7 +7,7 @@
 
 ### My Repos
 ```
-⭐️ 512 📦 echo724/notion2md
+⭐️ 513 📦 echo724/notion2md
 ⭐️ 11  📦 woowacourse-study/Gugles
 ⭐️ 7   📦 echo724/notion2jekyll
 ⭐️ 4   📦 echo724/notion2medium
