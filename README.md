@@ -7,8 +7,8 @@
 
 ### My Repos
 ```
-⭐️ 513 📦 echo724/notion2md
-⭐️ 11  📦 woowacourse-study/Gugles
+⭐️ 514 📦 echo724/notion2md
+⭐️ 12  📦 woowacourse-study/Gugles
 ⭐️ 7   📦 echo724/notion2jekyll
 ⭐️ 4   📦 echo724/notion2medium
 ⭐️ 1   📦 echo724/java-bridge
