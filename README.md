@@ -10,6 +10,6 @@
 ⭐️ 554 📦 echo724/notion2md
 ⭐️ 19  📦 woowacourse-study/Gugles
 ⭐️ 7   📦 echo724/notion2jekyll
-⭐️ 5   📦 echo724/notion2medium
+⭐️ 6   📦 echo724/notion2medium
 ⭐️ 1   📦 echo724/gugles_mission_tracker
 ```
