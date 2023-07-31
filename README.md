@@ -9,7 +9,7 @@
 ```
 ⭐️ 573 📦 echo724/notion2md
 ⭐️ 23  📦 woowacourse-study/Gugles
-⭐️ 16  📦 woowacourse-teams/2023-dong-gle
+⭐️ 17  📦 woowacourse-teams/2023-dong-gle
 ⭐️ 7   📦 echo724/notion2jekyll
 ⭐️ 7   📦 echo724/notion2medium
 ```
