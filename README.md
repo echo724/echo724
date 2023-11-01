@@ -7,8 +7,8 @@
 
 ### My Repos
 ```
-⭐️ 598 📦 echo724/notion2md
-⭐️ 29  📦 woowacourse-teams/2023-dong-gle
+⭐️ 599 📦 echo724/notion2md
+⭐️ 30  📦 woowacourse-teams/2023-dong-gle
 ⭐️ 23  📦 woowacourse-study/Gugles
 ⭐️ 9   📦 echo724/notion2medium
 ⭐️ 8   📦 echo724/notion2jekyll
