@@ -1,6 +1,6 @@
 ## About echo724
 
-<code>**echo Hello World**</code>
+<pre><code>echo Hello World</code></pre>
 
 - [Personal Blog](https://medium.com/echo-devblog)
 - [Linkedin Profile](https://www.linkedin.com/in/echo724)
