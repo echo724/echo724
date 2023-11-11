@@ -3,7 +3,7 @@
 <code>**echo Hello World**</code>
 
 - [Personal Blog](https://medium.com/echo-devblog)
-- [Linkedin Profile](https://www.linkedin.com/in/eunchan-cho-382001184)
+- [Linkedin Profile](https://www.linkedin.com/in/echo724)
 
 ### My Repos
 ```
