@@ -2,7 +2,7 @@
 
 <pre><code>echo Hello World</code></pre>
 
-- [Personal Blog](https://medium.com/echo-devblog)
+- [Personal Blog](https://medium.com/@echo724)
 - [Linkedin Profile](https://www.linkedin.com/in/echo724)
 
 ### My Repos
