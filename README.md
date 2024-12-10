@@ -11,5 +11,5 @@
 ⭐️ 41  📦 woowacourse-teams/2023-dong-gle
 ⭐️ 22  📦 woowacourse-study/Gugles
 ⭐️ 15  📦 echo724/notion2medium
-⭐️ 9   📦 Migorithm/duva
+⭐️ 10  📦 Migorithm/duva
 ```
