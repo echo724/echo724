@@ -10,6 +10,6 @@
 ⭐️ 696 📦 echo724/notion2md
 ⭐️ 41  📦 woowacourse-teams/2023-dong-gle
 ⭐️ 22  📦 woowacourse-study/Gugles
-⭐️ 18  📦 echo724/notion2medium
+⭐️ 19  📦 echo724/notion2medium
 ⭐️ 13  📦 Migorithm/duva
 ```
