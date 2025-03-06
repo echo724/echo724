@@ -9,7 +9,7 @@
 ```
 ⭐️ 707 📦 echo724/notion2md
 ⭐️ 41  📦 woowacourse-teams/2023-dong-gle
-⭐️ 35  📦 Migorithm/duva
+⭐️ 36  📦 Migorithm/duva
 ⭐️ 22  📦 woowacourse-study/Gugles
 ⭐️ 20  📦 echo724/notion2medium
 ```
