@@ -7,7 +7,7 @@
 
 ### My Repos
 ```
-⭐️ 745 📦 echo724/notion2md
+⭐️ 746 📦 echo724/notion2md
 ⭐️ 175 📦 Migorithm/duva
 ⭐️ 40  📦 woowacourse-teams/2023-dong-gle
 ⭐️ 21  📦 echo724/notion2medium
